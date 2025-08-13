@@ -1,0 +1,19 @@
+/app
+  /components
+    Header.tsx
+    Hero.tsx
+    ImpactStats.tsx
+    Programmes.tsx
+    SDGs.tsx
+    Stories.tsx
+    SupportCause.tsx
+    Partners.tsx
+    Accreditations.tsx
+    Newsletter.tsx
+    Footer.tsx
+  layout.tsx
+  page.tsx
+  favicon.ico
+/public
+  /images   (put temporary placeholders here)
+
